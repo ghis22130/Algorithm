@@ -27,7 +27,7 @@
 **예제 #2**
 
 아래와 같이 1개의 네트워크가 있습니다.
-![](https://grepp-programmers.s3.amazonaws.com/files/ybm/7554746da2/edb61632-59f4-4799-9154-de9ca98c9e55.png)
+<img src="https://grepp-programmers.s3.amazonaws.com/files/ybm/7554746da2/edb61632-59f4-4799-9154-de9ca98c9e55.png" width="450px" height="300px" title="" alt=""></img><br/>
 
 ## 문제 풀이
 ```python
