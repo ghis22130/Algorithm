@@ -22,7 +22,8 @@
 **예제 #1**
 
 아래와 같이 2개의 네트워크가 있습니다.
-![](https://grepp-programmers.s3.amazonaws.com/files/ybm/5b61d6ca97/cc1e7816-b6d7-4649-98e0-e95ea2007fd7.png)
+<img src="https://grepp-programmers.s3.amazonaws.com/files/ybm/5b61d6ca97/cc1e7816-b6d7-4649-98e0-e95ea2007fd7.png" width="450px" height="300px" title="" alt=""></img><br/>
+
 **예제 #2**
 
 아래와 같이 1개의 네트워크가 있습니다.
