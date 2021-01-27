@@ -17,7 +17,7 @@ def solution(lines):
         date, time, during = line.split(' ')
         endTime = datetime.strptime(date+' '+time,"%Y-%m-%d %H:%M:%S.%f")
         during = int(float(during[:-1])*1000)
-        startTime = endTime - timedelta(milliseconds = during + 1000)
+        startTime = endTime - timedelta(milliseconds = during - 1)
         logs.append((startTime, endTime))
 
 
